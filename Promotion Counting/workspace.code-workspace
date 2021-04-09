@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.dependency.syncWithFolderExplorer": true,
+		"java.dependency.packagePresentation": "hierarchical",
+		"python.pythonPath": "C:\\Users\\10\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+	}
+}
