@@ -13,8 +13,8 @@ public class billboard{
         int y3 = input.nextInt();
         int x4 = input.nextInt();
         int y4 = input.nextInt();
-        int sumX;
-        int sumY;
+        int sumX = 0 ;
+        int sumY = 0 ;
         if(x1 >= x3 && x2 <= x4 && y1 >= y3 && y2 <= y4){
             out.println(0);
         }
