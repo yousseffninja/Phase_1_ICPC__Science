@@ -42,8 +42,8 @@ public class billboard{
             else{
                 out.println(Math.abs(y2 - y1) * Math.abs(x2-x1));
             }
-            input.close();
-            out.close();
         }
+        input.close();
+        out.close();
     }
 }
